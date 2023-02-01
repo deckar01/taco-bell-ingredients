@@ -1,0 +1,636 @@
+{
+    "Chipotle Ranch Grilled Chicken Burrito": [
+        "Flour Tortilla",
+        "Grilled Chicken",
+        "Iceberg Lettuce",
+        "Avocado Ranch Sauce",
+        "Creamy Chipotle Sauce",
+        "Fiesta Tortilla Strips",
+        "Tomatoes",
+        "Cheddar Cheese"
+    ],
+    "Double Steak Grilled Cheese Burrito": [
+        "Flour Tortilla",
+        "Seasoned Rice",
+        "Steak",
+        "Three Cheese Blend",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce",
+        "Fiesta Tortilla Strips"
+    ],
+    "Double Steak Grilled Cheese Burrito - Spicy": [
+        "Flour Tortilla",
+        "Seasoned Rice",
+        "Steak",
+        "Three Cheese Blend",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce",
+        "Fiesta Tortilla Strips",
+        "Jalapeno Peppers"
+    ],
+    "Salsa Verde Grilled Chicken Burrito": [
+        "Flour Tortilla",
+        "Grilled Chicken",
+        "Seasoned Rice",
+        "Green Sauce",
+        "Reduced-Fat Sour Cream",
+        "Three Cheese Blend"
+    ],
+    "Black Bean Chalupa Supreme® - Online Exclusive": [
+        "Chalupa Flatbread",
+        "Black Beans",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Iceberg Lettuce",
+        "Three Cheese Blend"
+    ],
+    "Black Bean Quesarito - Online Exclusive": [
+        "Flour Tortilla",
+        "Black Beans",
+        "Seasoned Rice",
+        "Cheddar Cheese",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce"
+    ],
+    "Quesarito - Online Exclusive": [
+        "Flour Tortilla",
+        "Seasoned Beef",
+        "Seasoned Rice",
+        "Cheddar Cheese",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce"
+    ],
+    "Chalupa Supreme® - Beef": [
+        "Chalupa Flatbread",
+        "Seasoned Beef",
+        "Reduced-Fat Sour Cream",
+        "Iceberg Lettuce",
+        "Tomatoes",
+        "Three Cheese Blend"
+    ],
+    "Chalupa Supreme® - Chicken": [
+        "Chalupa Flatbread",
+        "Grilled Chicken",
+        "Reduced-Fat Sour Cream",
+        "Iceberg Lettuce",
+        "Tomatoes",
+        "Three Cheese Blend"
+    ],
+    "Chalupa Supreme® - Steak": [
+        "Chalupa Flatbread",
+        "Steak",
+        "Reduced-Fat Sour Cream",
+        "Iceberg Lettuce",
+        "Tomatoes",
+        "Three Cheese Blend"
+    ],
+    "Cheesy Gordita Crunch": [
+        "Gordita Flatbread",
+        "Seasoned Beef",
+        "Three Cheese Blend",
+        "Iceberg Lettuce",
+        "Spicy Ranch Sauce",
+        "Taco Shells",
+        "Cheddar Cheese"
+    ],
+    "Crunchy Taco": [
+        "Seasoned Beef",
+        "Iceberg Lettuce",
+        "Taco Shells",
+        "Cheddar Cheese"
+    ],
+    "Crunchy Taco Supreme®": [
+        "Seasoned Beef",
+        "Reduced-Fat Sour Cream",
+        "Iceberg Lettuce",
+        "Taco Shells",
+        "Tomatoes",
+        "Cheddar Cheese"
+    ],
+    "Nacho Cheese Doritos® Locos Taco": [
+        "Seasoned Beef",
+        "Doritos® Locos Taco Nacho Cheese Shell",
+        "Iceberg Lettuce",
+        "Cheddar Cheese"
+    ],
+    "Nacho Cheese Doritos® Locos Taco Supreme®": [
+        "Seasoned Beef",
+        "Reduced-Fat Sour Cream",
+        "Doritos® Locos Taco Nacho Cheese Shell",
+        "Iceberg Lettuce",
+        "Tomatoes",
+        "Cheddar Cheese"
+    ],
+    "Soft Taco - Beef": [
+        "Seasoned Beef",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Cheddar Cheese"
+    ],
+    "Soft Taco - Chicken": [
+        "Grilled Chicken",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Cheddar Cheese"
+    ],
+    "Soft Taco Supreme® - Beef": [
+        "Seasoned Beef",
+        "Flour Tortilla",
+        "Reduced-Fat Sour Cream",
+        "Iceberg Lettuce",
+        "Tomatoes",
+        "Cheddar Cheese"
+    ],
+    "Soft Taco Supreme® - Chicken": [
+        "Grilled Chicken",
+        "Flour Tortilla",
+        "Reduced-Fat Sour Cream",
+        "Iceberg Lettuce",
+        "Tomatoes",
+        "Cheddar Cheese"
+    ],
+    "Bean Burrito (V)": [
+        "Refried Beans",
+        "Flour Tortilla",
+        "Red Sauce",
+        "Cheddar Cheese",
+        "Onions"
+    ],
+    "Beefy 5-Layer Burrito": [
+        "Flour Tortilla",
+        "Refried Beans",
+        "Seasoned Beef",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Cheddar Cheese"
+    ],
+    "Burrito Supreme® - Beef": [
+        "Flour Tortilla",
+        "Refried Beans",
+        "Seasoned Beef",
+        "Red Sauce",
+        "Reduced-Fat Sour Cream",
+        "Iceberg Lettuce",
+        "Tomatoes",
+        "Cheddar Cheese",
+        "Onions"
+    ],
+    "Burrito Supreme® - Chicken": [
+        "Flour Tortilla",
+        "Refried Beans",
+        "Grilled Chicken",
+        "Red Sauce",
+        "Reduced-Fat Sour Cream",
+        "Iceberg Lettuce",
+        "Tomatoes",
+        "Cheddar Cheese",
+        "Onions"
+    ],
+    "Burrito Supreme® - Steak": [
+        "Flour Tortilla",
+        "Refried Beans",
+        "Steak",
+        "Red Sauce",
+        "Reduced-Fat Sour Cream",
+        "Iceberg Lettuce",
+        "Tomatoes",
+        "Cheddar Cheese",
+        "Onions"
+    ],
+    "Chili Cheese Burrito (regional)": [
+        "Flour Tortilla",
+        "Chili (Regional)",
+        "Cheddar Cheese"
+    ],
+    "Quesarito - Beef": [
+        "Flour Tortilla",
+        "Seasoned Beef",
+        "Seasoned Rice",
+        "Cheddar Cheese",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce"
+    ],
+    "Quesarito - Chicken": [
+        "Flour Tortilla",
+        "Grilled Chicken",
+        "Seasoned Rice",
+        "Cheddar Cheese",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce"
+    ],
+    "Quesarito - Steak": [
+        "Flour Tortilla",
+        "Seasoned Rice",
+        "Steak",
+        "Cheddar Cheese",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce"
+    ],
+    "Chips and Nacho Cheese Sauce (V)": [
+        "Nacho Cheese Sauce",
+        "Nacho Chips"
+    ],
+    "Nachos BellGrande® - Beef": [
+        "Nacho Chips",
+        "Refried Beans",
+        "Nacho Cheese Sauce",
+        "Seasoned Beef",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes"
+    ],
+    "Nachos BellGrande® - Chicken": [
+        "Nacho Chips",
+        "Refried Beans",
+        "Nacho Cheese Sauce",
+        "Grilled Chicken",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes"
+    ],
+    "Nachos BellGrande® - Steak": [
+        "Nacho Chips",
+        "Refried Beans",
+        "Nacho Cheese Sauce",
+        "Steak",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes"
+    ],
+    "Beef Quesarito": [
+        "Flour Tortilla",
+        "Seasoned Beef",
+        "Seasoned Rice",
+        "Cheddar Cheese",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce"
+    ],
+    "Black Bean Quesarito (V)": [
+        "Flour Tortilla",
+        "Black Beans",
+        "Seasoned Rice",
+        "Cheddar Cheese",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce"
+    ],
+    "Quesadilla - Cheese (V)": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Creamy Jalapeno Sauce"
+    ],
+    "Quesadilla - Chicken": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Grilled Chicken",
+        "Creamy Jalapeno Sauce"
+    ],
+    "Quesadilla - Steak": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Steak",
+        "Creamy Jalapeno Sauce"
+    ],
+    "Black Bean Chalupa Supreme® - Specialties": [
+        "Chalupa Flatbread",
+        "Black Beans",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Iceberg Lettuce",
+        "Three Cheese Blend"
+    ],
+    "Black Bean Crunchwrap Supreme® - Specialties": [
+        "Flour Tortilla",
+        "Black Beans",
+        "Nacho Cheese Sauce",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Tostada Shells"
+    ],
+    "Black Bean Quesarito - Specialties": [
+        "Flour Tortilla",
+        "Black Beans",
+        "Seasoned Rice",
+        "Cheddar Cheese",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce"
+    ],
+    "Chalupa Supreme® - Specialties": [
+        "Chalupa Flatbread",
+        "Seasoned Beef",
+        "Reduced-Fat Sour Cream",
+        "Iceberg Lettuce",
+        "Tomatoes",
+        "Three Cheese Blend"
+    ],
+    "Cheesy Fiesta Potatoes - Specialties": [
+        "Potato Bites",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream"
+    ],
+    "Cheesy Gordita Crunch - Specialties": [
+        "Gordita Flatbread",
+        "Seasoned Beef",
+        "Three Cheese Blend",
+        "Iceberg Lettuce",
+        "Spicy Ranch Sauce",
+        "Taco Shells",
+        "Cheddar Cheese"
+    ],
+    "Cheesy Roll Up - Specialties": [
+        "Three Cheese Blend",
+        "Flour Tortilla"
+    ],
+    "Crunchwrap Supreme® - Specialties": [
+        "Flour Tortilla",
+        "Seasoned Beef",
+        "Nacho Cheese Sauce",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Tostada Shells"
+    ],
+    "Crunchy Taco - Specialties": [
+        "Seasoned Beef",
+        "Iceberg Lettuce",
+        "Taco Shells",
+        "Cheddar Cheese"
+    ],
+    "Mexican Pizza - Specialties": [
+        "Mexican Pizza Shell",
+        "Refried Beans",
+        "Seasoned Beef",
+        "Three Cheese Blend",
+        "Mexican Pizza Sauce",
+        "Tomatoes"
+    ],
+    "Mexican Pizza - Veggie - Specialties": [
+        "Mexican Pizza Shell",
+        "Refried Beans",
+        "Three Cheese Blend",
+        "Mexican Pizza Sauce",
+        "Tomatoes"
+    ],
+    "Nacho Cheese Doritos® Locos Taco - Specialties": [
+        "Seasoned Beef",
+        "Doritos® Locos Taco Nacho Cheese Shell",
+        "Iceberg Lettuce",
+        "Cheddar Cheese"
+    ],
+    "Nachos BellGrande® - Specialties": [
+        "Nacho Chips",
+        "Refried Beans",
+        "Nacho Cheese Sauce",
+        "Seasoned Beef",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes"
+    ],
+    "Power Menu Bowl - Specialties": [
+        "Seasoned Rice",
+        "Grilled Chicken",
+        "Black Beans",
+        "Iceberg Lettuce",
+        "Guacamole",
+        "Reduced-Fat Sour Cream",
+        "Cheddar Cheese",
+        "Tomatoes",
+        "Avocado Ranch Sauce"
+    ],
+    "Quesadilla - Specialties": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Grilled Chicken",
+        "Creamy Jalapeno Sauce"
+    ],
+    "Quesarito - Specialties": [
+        "Flour Tortilla",
+        "Seasoned Beef",
+        "Seasoned Rice",
+        "Cheddar Cheese",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce"
+    ],
+    "Soft Taco - Specialties": [
+        "Seasoned Beef",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Cheddar Cheese"
+    ],
+    "Soft Taco Supreme - Specialties": [
+        "Seasoned Beef",
+        "Flour Tortilla",
+        "Reduced-Fat Sour Cream",
+        "Iceberg Lettuce",
+        "Tomatoes",
+        "Cheddar Cheese"
+    ],
+    "Veggie Power Menu Bowl - Specialties": [
+        "Seasoned Rice",
+        "Black Beans",
+        "Iceberg Lettuce",
+        "Guacamole",
+        "Reduced-Fat Sour Cream",
+        "Cheddar Cheese",
+        "Tomatoes",
+        "Avocado Ranch Sauce"
+    ],
+    "Black Beans & Rice (V)": [
+        "Seasoned Rice",
+        "Black Beans"
+    ],
+    "Black Beans (V)": [
+        "Black Beans"
+    ],
+    "Cheesy Fiesta Potatoes (V)": [
+        "Potato Bites",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream"
+    ],
+    "Beef Burrito - Value Menu": [
+        "Flour Tortilla",
+        "Seasoned Beef",
+        "Seasoned Rice",
+        "Nacho Cheese Sauce",
+        "Creamy Jalapeno Sauce"
+    ],
+    "Beefy Melt Burrito - Value Menu": [
+        "Flour Tortilla",
+        "Seasoned Beef",
+        "Seasoned Rice",
+        "Three Cheese Blend",
+        "Fiesta Tortilla Strips",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream"
+    ],
+    "Cheesy Bean & Rice Burrito - Value Menu": [
+        "Flour Tortilla",
+        "Refried Beans",
+        "Seasoned Rice",
+        "Nacho Cheese Sauce",
+        "Creamy Jalapeno Sauce"
+    ],
+    "Cheesy Roll Up - Value Menu": [
+        "Three Cheese Blend",
+        "Flour Tortilla"
+    ],
+    "Chicken Chipotle Melt - Value Menu": [
+        "Grilled Chicken",
+        "Flour Tortilla",
+        "Cheddar Cheese",
+        "Creamy Chipotle Sauce"
+    ],
+    "Chipotle Ranch Grilled Chicken Burrito - Value Menu": [
+        "Flour Tortilla",
+        "Grilled Chicken",
+        "Iceberg Lettuce",
+        "Avocado Ranch Sauce",
+        "Creamy Chipotle Sauce",
+        "Fiesta Tortilla Strips",
+        "Tomatoes",
+        "Cheddar Cheese"
+    ],
+    "Chips and Nacho Cheese Sauce - Value Menu": [
+        "Nacho Cheese Sauce",
+        "Nacho Chips"
+    ],
+    "Fiesta Veggie Burrito - Value Menu": [
+        "Flour Tortilla",
+        "Black Beans",
+        "Seasoned Rice",
+        "Guacamole",
+        "Reduced-Fat Sour Cream",
+        "Three Cheese Blend",
+        "Creamy Chipotle Sauce",
+        "Fiesta Tortilla Strips",
+        "Tomatoes"
+    ],
+    "Spicy Potato Soft Taco - Value Menu": [
+        "Potato Bites",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Cheddar Cheese",
+        "Creamy Chipotle Sauce"
+    ],
+    "Bean Burrito": [
+        "Refried Beans",
+        "Flour Tortilla",
+        "Red Sauce",
+        "Cheddar Cheese",
+        "Onions"
+    ],
+    "Black Bean Chalupa Supreme®": [
+        "Chalupa Flatbread",
+        "Black Beans",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Iceberg Lettuce",
+        "Three Cheese Blend"
+    ],
+    "Black Bean Crunchwrap Supreme®": [
+        "Flour Tortilla",
+        "Black Beans",
+        "Nacho Cheese Sauce",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Tostada Shells"
+    ],
+    "Black Bean Quesarito": [
+        "Flour Tortilla",
+        "Black Beans",
+        "Seasoned Rice",
+        "Cheddar Cheese",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Creamy Chipotle Sauce"
+    ],
+    "Black Beans": [
+        "Black Beans"
+    ],
+    "Black Beans & Rice": [
+        "Seasoned Rice",
+        "Black Beans"
+    ],
+    "Cheese Quesadilla": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Creamy Jalapeno Sauce"
+    ],
+    "Cheesy Bean & Rice Burrito": [
+        "Flour Tortilla",
+        "Refried Beans",
+        "Seasoned Rice",
+        "Nacho Cheese Sauce",
+        "Creamy Jalapeno Sauce"
+    ],
+    "Cheesy Fiesta Potatoes": [
+        "Potato Bites",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream"
+    ],
+    "Cheesy Roll Up": [
+        "Three Cheese Blend",
+        "Flour Tortilla"
+    ],
+    "Chips and Nacho Cheese Sauce": [
+        "Nacho Cheese Sauce",
+        "Nacho Chips"
+    ],
+    "Power Menu Bowl - Veggie": [
+        "Seasoned Rice",
+        "Black Beans",
+        "Iceberg Lettuce",
+        "Guacamole",
+        "Reduced-Fat Sour Cream",
+        "Cheddar Cheese",
+        "Tomatoes",
+        "Avocado Ranch Sauce"
+    ],
+    "Spicy Potato Soft Taco": [
+        "Potato Bites",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Cheddar Cheese",
+        "Creamy Chipotle Sauce"
+    ],
+    "Power Menu Bowl - Chicken": [
+        "Seasoned Rice",
+        "Grilled Chicken",
+        "Black Beans",
+        "Iceberg Lettuce",
+        "Guacamole",
+        "Reduced-Fat Sour Cream",
+        "Cheddar Cheese",
+        "Tomatoes",
+        "Avocado Ranch Sauce"
+    ],
+    "Power Menu Bowl - Steak": [
+        "Seasoned Rice",
+        "Steak",
+        "Black Beans",
+        "Iceberg Lettuce",
+        "Guacamole",
+        "Reduced-Fat Sour Cream",
+        "Cheddar Cheese",
+        "Tomatoes",
+        "Avocado Ranch Sauce"
+    ],
+    "Power Menu Bowl - Veggie (V)": [
+        "Seasoned Rice",
+        "Black Beans",
+        "Iceberg Lettuce",
+        "Guacamole",
+        "Reduced-Fat Sour Cream",
+        "Cheddar Cheese",
+        "Tomatoes",
+        "Avocado Ranch Sauce"
+    ]
+}
